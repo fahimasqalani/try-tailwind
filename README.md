@@ -1,2 +1,2 @@
 # try-tailwind
-test
+Test
